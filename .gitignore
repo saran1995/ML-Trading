@@ -1,0 +1,7 @@
+# ignore All Images
+*.png
+
+
+
+#ignore all csv
+*.csv
